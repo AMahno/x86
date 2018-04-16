@@ -1,0 +1,5 @@
+Vasya             $;Boxing            $;DK-51             $;Yangelya$;          
+Petya             $;Running           $;DK-52             $;Pobedy$;            
+Vitya             $;Running           $;DK-41             $;Borshaga$;          
+Kesha             $;Boxing            $;DK-42             $;Polytech$;          
+Vanya             $;Tourism           $;DK-31             $;Yangelya$;          
